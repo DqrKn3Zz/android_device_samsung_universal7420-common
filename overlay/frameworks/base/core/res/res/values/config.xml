@@ -418,4 +418,7 @@
 
     <!-- Whether device supports button backlight -->
     <bool name="config_button_brightness_support">true</bool>
+
+    <!-- Whether to use in-built Screen Record service -->
+    <bool name="config_showScreenRecord">true</bool>
 </resources>
