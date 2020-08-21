@@ -327,10 +327,6 @@ PRODUCT_PACKAGES += \
 	Jelly \
 	SamsungServiceMode
 
-# Remove unwanted packages
-PRODUCT_PACKAGES += \
-    RemovePackages
-
 #
 # Permissions
 #
