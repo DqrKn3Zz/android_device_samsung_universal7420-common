@@ -453,6 +453,8 @@
     <integer name="config_deviceHardwareWakeKeys">72</integer>
 
     <!-- Button brightness -->
-    <bool name="config_button_brightness_support">true</bool>
     <integer name="config_button_brightness_default">128</integer>
+
+    <!-- Use home button as wake button-->
+    <bool name="config_enableHomeButtonWake">true</bool>
 </resources>
